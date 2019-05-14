@@ -7,8 +7,11 @@
 
 ````
 Option 1: Download Zip file and open on your local machine by clicking the green button above that looks like this:
-![Screen Shot 2019-05-14 at 11 53 36 AM](https://user-images.githubusercontent.com/47371676/57716571-eeebee00-763e-11e9-91d1-592dbfd88c1c.png)
+
 ````
+![Screen Shot 2019-05-14 at 11 53 36 AM](https://user-images.githubusercontent.com/47371676/57716571-eeebee00-763e-11e9-91d1-592dbfd88c1c.png)
+
+
 
 Or from your command line:
 ````
