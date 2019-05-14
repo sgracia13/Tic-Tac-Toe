@@ -6,7 +6,7 @@
 ## Installing on your local machine
 
 ````
-Option 1: Download Zip file and open in up on your machine
+Option 1: Download Zip file and open on your local machine
 ````
 
 Or from your command line:
@@ -31,5 +31,5 @@ npm start
 
 You will see your command line starting up the react server and should see a screen like this:
 
-
+![Screen Shot 2019-05-14 at 11 46 35 AM](https://user-images.githubusercontent.com/47371676/57716304-4a69ac00-763e-11e9-8c4b-2bc902ae793a.png)
 
