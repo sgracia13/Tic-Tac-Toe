@@ -1,7 +1,6 @@
 ![Screen Shot 2019-05-14 at 11 26 14 AM](https://user-images.githubusercontent.com/47371676/57714901-23f64180-763b-11e9-9849-87e6b9f9ba2b.png)
 
-
-![Screen Shot 2019-05-14 at 11 27 24 AM](https://user-images.githubusercontent.com/47371676/57714978-4e47ff00-763b-11e9-9949-ca9fbbb432b2.png)
+A Tic-Tac-Toe game built with React.
 
 ## Installing on your local machine
 
@@ -37,4 +36,28 @@ npm start
 You will see your command line starting up the react server and should see a screen like this:
 
 ![Screen Shot 2019-05-14 at 11 46 35 AM](https://user-images.githubusercontent.com/47371676/57716304-4a69ac00-763e-11e9-8c4b-2bc902ae793a.png)
+
+If everything compiles correctly, you will see a screen that looks a little like this:
+
+
+![Screen Shot 2019-05-14 at 11 46 35 AM](https://user-images.githubusercontent.com/47371676/57716832-73d70780-763f-11e9-83ad-94ec6b29a1fa.png)
+
+## Playing the game
+
+Your web browser should look like this once the game is up and running:
+
+
+![Screen Shot 2019-05-14 at 11 27 24 AM](https://user-images.githubusercontent.com/47371676/57714978-4e47ff00-763b-11e9-9949-ca9fbbb432b2.png)
+
+
+You will be prompted in the upper right hand corner whether it is the X's or O's turn to click a box.
+Keep playing until you have a winner.
+Once there is a winner, the screen will look like this:
+
+![Screen Shot 2019-05-14 at 11 28 50 AM](https://user-images.githubusercontent.com/47371676/57717101-155e5900-7640-11e9-978b-1da88b506ad4.png)
+
+
+Enjoy!
+
+
 
