@@ -40,7 +40,8 @@ You will see your command line starting up the react server and should see a scr
 If everything compiles correctly, you will see a screen that looks a little like this:
 
 
-![Screen Shot 2019-05-14 at 11 46 35 AM](https://user-images.githubusercontent.com/47371676/57716832-73d70780-763f-11e9-83ad-94ec6b29a1fa.png)
+![Screen Shot 2019-05-14 at 11 57 02 AM](https://user-images.githubusercontent.com/47371676/57717206-4c346f00-7640-11e9-8125-d166b05f258c.png)
+
 
 ## Playing the game
 
